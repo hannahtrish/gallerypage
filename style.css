@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.storage h1{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#img-gal{
+    height: 250px;
+    padding: 52px;
+}
+#img-gal2{
+    height: 250px;
+    padding: 120px;
+    margin-top: -50px;
+}
+#img-gal3{
+    height: 250px;
+    padding: 50px;
+    width: 300px;
+    margin-top: -50px;
+}
+#img-gal4{
+    height: 250px;
+    padding: 110px;
+    margin-top: -50px;
+}
